@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+
+    <item
+        android:id="@+id/information"
+        android:title="Information"
+        android:icon="@drawable/information"/>
+
+
+    <item
+        android:id="@+id/gender"
+        android:title="Gender"
+        android:icon="@drawable/gender"/>
+
+    <item
+        android:id="@+id/jokes"
+        android:title="Jokes"
+        android:icon="@drawable/jokes"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"/>
+
+
+
+
+
+</menu>
